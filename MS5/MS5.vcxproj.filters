@@ -15,51 +15,51 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\AmaApp.h">
+    <ClInclude Include="AmaApp.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Date.h">
+    <ClInclude Include="Date.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\ErrorState.h">
+    <ClInclude Include="ErrorState.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\iProduct.h">
+    <ClInclude Include="iProduct.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Perishable.h">
+    <ClInclude Include="Perishable.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Product.h">
+    <ClInclude Include="Product.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Sort.h">
+    <ClInclude Include="Sort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Utilities.h">
+    <ClInclude Include="Utilities.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\AmaApp.cpp">
+    <ClCompile Include="AmaApp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Date.cpp">
+    <ClCompile Include="Date.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\ErrorState.cpp">
+    <ClCompile Include="ErrorState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\ms5.cpp">
+    <ClCompile Include="ms5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Perishable.cpp">
+    <ClCompile Include="Perishable.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Product.cpp">
+    <ClCompile Include="Product.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Utilities.cpp">
+    <ClCompile Include="Utilities.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
