@@ -27,9 +27,9 @@
 #[Oo]bj/
 #[Ll]og/
 
-# HIDE SOURCE CODE 
-*.h
-*.cpp
+# HIDE SOURCE CODE
+MS5-Full/*.h
+MS5-Full/*.cpp
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
